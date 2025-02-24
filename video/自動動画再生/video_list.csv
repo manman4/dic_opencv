@@ -1,3 +1,3 @@
-ファイル名,再生時間（秒）
-unko.mp4,16.17
-unko.mp4,5.17
+ディレクトリ,ファイル名,再生時間（秒）
+./sample/aaa,unko.mp4,16.17
+./sample/bbb,unko.mp4,5.17
